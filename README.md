@@ -1,6 +1,6 @@
 # Android Chat via Bluetooth
 ***
-####基于Android的精简版蓝牙聊天室.
+###基于Android的精简版蓝牙聊天室.
 ***
 
     ·需要两个Android设备分别安装本APP.
