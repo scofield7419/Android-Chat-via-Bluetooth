@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.sample66.MainActivity" >
+
+    <item
+        android:id="@+id/back"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="断开聊天"/>
+
+</menu>
